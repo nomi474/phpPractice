@@ -1,0 +1,5 @@
+Roses are red
+Violets are blue
+This is a horrible poem
+But it shows you how to read from a file
+using PHP.
