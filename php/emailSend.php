@@ -1,8 +1,6 @@
 <html lang="en">
 <head>
 <title>Send Some mail</title>
- <?php
-		?>
 </head>
 <body>
  <?php
