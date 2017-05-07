@@ -1,4 +1,5 @@
 <?php
+echo $_SERVER['HTTP_USER_AGENT'];
 	$error = "";  
 	$successMessage = ""; 
 	$errorMessage= ""; 
